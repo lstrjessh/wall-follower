@@ -1,4 +1,4 @@
-# AVR Wall-Following Robot
+# Wall-Following Robot
 
 Bare-metal C firmware for an ATmega328P robot that follows a right-hand wall using ultrasonic distance measurements and PD motor control. Written against AVR registers, without the Arduino framework.
 
